@@ -1,4 +1,4 @@
-Resume skill fetching app
+Resume Screening app
 
 Created By Nishit Patel
 
